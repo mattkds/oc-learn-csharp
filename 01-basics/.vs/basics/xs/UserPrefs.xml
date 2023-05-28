@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3FA0E61B-04BA-4BB2-A97D-AACBA92AE374}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hello.cs">
+    <Files>
+      <File FileName="Launcher.cs" Line="7" Column="20" />
+      <File FileName="variable.cs" Line="5" Column="1" />
+      <File FileName="classes.cs" />
+      <File FileName="Collections.cs" Line="93" Column="36" />
+      <File FileName="AccessControl.cs" Line="12" Column="6" />
+      <File FileName="Hello.cs" Line="5" Column="19" />
+      <File FileName="Conditions.cs" Line="8" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="basics" expanded="True">
+            <Node name="basics" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.basics PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
