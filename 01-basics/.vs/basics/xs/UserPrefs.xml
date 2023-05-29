@@ -1,28 +1,39 @@
 ﻿<Properties StartupConfiguration="{3FA0E61B-04BA-4BB2-A97D-AACBA92AE374}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Hello.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Launcher.cs">
     <Files>
-      <File FileName="Launcher.cs" Line="7" Column="20" />
-      <File FileName="variable.cs" Line="5" Column="1" />
+      <File FileName="Launcher.cs" Line="23" Column="1" />
+      <File FileName="variable.cs" Line="67" Column="1" />
       <File FileName="classes.cs" />
-      <File FileName="Collections.cs" Line="93" Column="36" />
+      <File FileName="Collections.cs" />
       <File FileName="AccessControl.cs" Line="12" Column="6" />
-      <File FileName="Hello.cs" Line="5" Column="19" />
       <File FileName="Conditions.cs" Line="8" Column="4" />
+      <File FileName="Hello.cs" Line="16" Column="1" />
+      <File FileName="Loop.cs" Line="43" Column="36" />
+      <File FileName="Exceptions.cs" Line="28" Column="77" />
+      <File FileName="ConsoleInteraction.cs" Line="9" Column="26" />
+      <File FileName="DistantRetrieveUrl.cs" Line="59" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="basics" expanded="True">
-            <Node name="basics" expanded="True" />
+            <Node name="basics" expanded="True">
+              <Node name="Launcher.cs" selected="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/matthieukydts/Documents/projects/dotnet/oc-learn-csharp/01-basics/Variable.cs" relfile="Variable.cs" line="18" column="9" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.basics PreferredExecutionTarget="MonoDevelop.Default" />
